@@ -1,0 +1,50 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "To validate the facebook email and password and trying to login.",
+        "description": "",
+        "id": "to-validate-the-login-functionality-in-e-commerce-site;to-validate-the-facebook-email-and-password-and-trying-to-login.",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User Navigate to the url",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User enter the email and password",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "User click the login button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "to validate the login functionality in e-commerce site",
+    "description": "",
+    "id": "to-validate-the-login-functionality-in-e-commerce-site",
+    "keyword": "Feature",
+    "uri": "C:/Users/Asus/eclipse-workspace/Cucumber/src/test/resources/cucu.feature",
+    "tags": []
+  }
+]
